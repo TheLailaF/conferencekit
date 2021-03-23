@@ -1,3 +1,3 @@
 # Building Connections 
 
-*Content required*
+How to establish connections during and outside of the conference.
